@@ -2,14 +2,23 @@ name: MREP Automation Report
 
 on:
   schedule:
-    - cron: '0 15 * * *' # Timer: Currently set to 15:00 UTC (8:00 PM PKT). 
-                         # To change, edit the numbers (Minute Hour Day Month Weekday).
-  workflow_dispatch:     # Allows manual triggering from the Actions tab.
+    - cron: '0 15 * * *' # Daily at 8:00 PM PKT
+  workflow_dispatch:
+    inputs:
+      action:
+        description: 'What to do?'
+        required: true
+        default: 'run_full'
+        type: choice
+        options:
+          - 'run_full'
+          - 'test_mode'
+          - 'link_whatsapp_only'
 
 jobs:
   run-automation:
     runs-on: ubuntu-latest
-    timeout-minutes: 10 # Pipeline takes longer with processing
+    timeout-minutes: 15
 
     steps:
       - name: Checkout repository
@@ -47,27 +56,33 @@ jobs:
         uses: actions/cache@v4
         with:
           path: automation/.wwebjs_auth
-          key: ${{ runner.os }}-whatsapp-session-${{ github.run_id }}
+          key: ${{ runner.os }}-whatsapp-session
           restore-keys: |
-            ${{ runner.os }}-whatsapp-session-
+            ${{ runner.os }}-whatsapp-session
 
-      - name: Run Full Pipeline (Download -> Process -> PDF -> WhatsApp)
+      - name: Run Pipeline
         env:
-          # MREP Credentials
           MREP_COMPANY: ${{ secrets.MREP_COMPANY }}
           MREP_USERNAME: ${{ secrets.MREP_USERNAME }}
           MREP_PASSWORD: ${{ secrets.MREP_PASSWORD }}
-          # WhatsApp Configuration
-          # To add more contacts, add them as a comma-separated list in GitHub Secrets
           WHATSAPP_NUMBER: ${{ secrets.WHATSAPP_NUMBER }}
           COMPANY_NAME: ${{ secrets.COMPANY_NAME }}
           NODE_ENV: production
           HEADLESS: True
         run: |
           cd automation
-          python main.py --now
+          if [[ "${{ github.event.inputs.action }}" == "link_whatsapp_only" ]]; then
+            echo "⚡ LINK MODE: Starting WhatsApp only..."
+            node whatsapp_send.cjs --to "${{ secrets.WHATSAPP_NUMBER }}" --message "✅ Link successful! Your GitHub Action is now connected to WhatsApp."
+          elif [[ "${{ github.event.inputs.action }}" == "test_mode" ]]; then
+            echo "🧪 TEST MODE: Running with sample data..."
+            python main.py --test
+          else
+            echo "🚀 FULL MODE: Running MREP -> WhatsApp..."
+            python main.py --now
+          fi
 
-      - name: Upload Artifacts (Screenshots, Logs & PDF)
+      - name: Upload Artifacts
         if: always()
         uses: actions/upload-artifact@v4
         with:
@@ -78,3 +93,10 @@ jobs:
             automation/reports/*.pdf
             automation/downloads/*.xlsx
           retention-days: 7
+
+      - name: Save WhatsApp Session (On Success)
+        if: success()
+        uses: actions/cache/save@v4
+        with:
+          path: automation/.wwebjs_auth
+          key: ${{ runner.os }}-whatsapp-session-${{ github.run_id }}
