@@ -1,0 +1,32 @@
+RAW ROWS FOR North-1 on 9-Feb-26:
+         Team        Brand                             Product_Name All Regions  9-Feb-26
+1022  DYNAMIC       MIFATE                  Mifate 100mg IM/IV Inj.       Bannu        61
+1023  DYNAMIC       MIFATE                  Mifate 100mg IM/IV Inj.    Peshawar        65
+1025  DYNAMIC       MIFATE                  Mifate 500mg IM/IV Inj.       Bannu        11
+1026  DYNAMIC       MIFATE                  Mifate 500mg IM/IV Inj.    Peshawar        30
+1029  DYNAMIC    NERVPOWER             Nervpower Inj 500mcg/ml 10's       Bannu         5
+1030  DYNAMIC    NERVPOWER             Nervpower Inj 500mcg/ml 10's    Peshawar         6
+1040  DYNAMIC      PROXCAM                     Proxcam Tab 20mg 20s       Bannu         8
+1041  DYNAMIC      PROXCAM                     Proxcam Tab 20mg 20s    Peshawar        20
+1044  DYNAMIC       ROPLEX       Roplex-S I.V Injection 100mg / 5ml       Bannu         8
+1045  DYNAMIC       ROPLEX       Roplex-S I.V Injection 100mg / 5ml    Peshawar         0
+1048  DYNAMIC    SANAMIDOL                 SANAMIDOL 40MG INJECTION       Bannu        10
+1049  DYNAMIC    SANAMIDOL                 SANAMIDOL 40MG INJECTION    Peshawar         0
+1051  DYNAMIC    SANAMIDOL                      Sanamidol 20mg Cap.       Bannu         0
+1053  DYNAMIC    SANAMIDOL                      Sanamidol 40mg Cap.       Bannu         6
+1054  DYNAMIC    SANAMIDOL                      Sanamidol 40mg Cap.    Peshawar         0
+1057  DYNAMIC      STRACEF                       STRACEF 2gm IV Inj       Bannu         0
+1058  DYNAMIC      STRACEF                       STRACEF 2gm IV Inj    Peshawar        20
+1060  DYNAMIC      STRACEF                       Stracef 1g IV Inj.       Bannu        60
+1061  DYNAMIC      STRACEF                       Stracef 1g IV Inj.    Peshawar        58
+1063  DYNAMIC      STRACEF                      Stracef 500 IM Inj.       Bannu         0
+1064  DYNAMIC      STRACEF                      Stracef 500 IM Inj.    Peshawar         0
+1066  DYNAMIC      STRACEF                      Stracef 500 IV Inj.       Bannu        10
+1069  DYNAMIC       SWIDOL                  Swidol 1000mg/100ml Inf       Bannu        88
+1070  DYNAMIC       SWIDOL                  Swidol 1000mg/100ml Inf    Peshawar        24
+1073  DYNAMIC       SWINAL                    SWINAL 10MG INJECTION    Peshawar         0
+1076  DYNAMIC  SWISSMETHER  Swissmether Plus Susp. 15mg + 90mg 30ml       Bannu        -1
+1077  DYNAMIC  SWISSMETHER  Swissmether Plus Susp. 15mg + 90mg 30ml    Peshawar         0
+1079  DYNAMIC  SWISSMETHER  Swissmether Plus Susp. 15mg + 90mg 60ml       Bannu         0
+1080  DYNAMIC  SWISSMETHER  Swissmether Plus Susp. 15mg + 90mg 60ml    Peshawar         0
+SUM OF RAW ROWS: 489

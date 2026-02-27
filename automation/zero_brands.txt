@@ -1,0 +1,24 @@
+Total brands: 66
+Zero-target brands: 20
+
+             Brands  TgtUnit  TgtVal  PMUnit       PMVal
+4         Co-Olanza        0     0.0  8560.0  4828680.00
+5   Co-Olanza Total        0     0.0  2140.0  1207170.00
+10             ETAL        0     0.0  2740.0  2096100.00
+11       ETAL Total        0     0.0   685.0   524025.00
+14          KAIRDON        0     0.0  7608.0  6361070.00
+15    KAIRDON Total        0     0.0  1902.0  1590267.50
+16          LEPITAM        0     0.0  4000.0  4685999.24
+17    LEPITAM Total        0     0.0  1000.0  1171499.81
+30              PAX        0     0.0  1704.0  2002694.20
+31        PAX Total        0     0.0   426.0   500673.55
+36           Pax CR        0     0.0  9080.0  9592313.08
+37     Pax CR Total        0     0.0  2270.0  2398078.27
+44          SCRODOP        0     0.0  2724.0  3439942.00
+45    SCRODOP Total        0     0.0   681.0   859985.50
+54          SWISMOX        0     0.0     0.0        0.00
+55    SWISMOX Total        0     0.0     0.0        0.00
+58           Swisat        0     0.0  5388.0  3260340.00
+59     Swisat Total        0     0.0  1347.0   815085.00
+64          Zoltrix        0     0.0  7832.0  7482318.80
+65    Zoltrix Total        0     0.0  1958.0  1870579.70

@@ -1,0 +1,53 @@
+name: MREP Automation Report
+
+on:
+  schedule:
+    - cron: '0 15 * * *' # Runs once per day (15:00 UTC = approx 20:00 PKT)
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  run-automation:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+          cache-dependency-path: automation/package-lock.json
+
+      - name: Install Node.js dependencies
+        run: |
+          cd automation
+          npm ci
+
+      - name: Install Playwright Chromium
+        run: |
+          cd automation
+          npx playwright install --with-deps chromium
+
+      - name: Run MREP Automation
+        env:
+          MREP_COMPANY: ${{ secrets.MREP_COMPANY }}
+          MREP_USERNAME: ${{ secrets.MREP_USERNAME }}
+          MREP_PASSWORD: ${{ secrets.MREP_PASSWORD }}
+          NODE_ENV: production
+        run: |
+          cd automation
+          node mrep_target_achievement.cjs
+
+      - name: Upload Artifacts (Screenshots & Logs)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: mrep-automation-results
+          path: |
+            automation/*.png
+            automation/*.log
+            automation/downloads/*.xlsx
+          retention-days: 7

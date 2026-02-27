@@ -1,0 +1,27 @@
+﻿Rows with ZERO Excel Target: 230
+Their PM Sale Value sum: 1,283,387.95
+Their Current Sale Value sum: 1,000,428.45
+Fallback Target (PM*110%): 1,411,726.75
+
+Per-Team breakdown of zero-target rows:
+  ACHIEVERS: 77 rows, PM sum=167,733.90, Fallback=184,507.29
+  CONCORD: 116 rows, PM sum=1,087,887.85, Fallback=1,196,676.64
+  DYNAMIC: 1 rows, PM sum=27,766.20, Fallback=30,542.82
+  PASSIONATE: 36 rows, PM sum=0.00, Fallback=0.00
+
+Sample zero-target rows:
+  Team=ACHIEVERS, Brand=ASVON, Product=Asvon Tab 10/100mg 30s, Sale=0, Target=0, PM=-1,530
+  Team=ACHIEVERS, Brand=ASVON, Product=Asvon Tab 10/100mg 30s, Sale=0, Target=0, PM=0
+  Team=ACHIEVERS, Brand=ASVON, Product=Asvon Tab 10/100mg 30s, Sale=1,530, Target=0, PM=765
+  Team=ACHIEVERS, Brand=ASVON, Product=Asvon Tab 10/100mg 30s, Sale=-1,530, Target=0, PM=0
+  Team=ACHIEVERS, Brand=ASVON, Product=Asvon Tab 10/100mg 30s, Sale=0, Target=0, PM=0
+  Team=ACHIEVERS, Brand=ASVON, Product=Asvon Tab 10/100mg 30s, Sale=-765, Target=0, PM=0
+  Team=ACHIEVERS, Brand=ATOXAN, Product=Atoxan 30mg Tab., Sale=0, Target=0, PM=0
+  Team=ACHIEVERS, Brand=ATOXAN, Product=Atoxan 30mg Tab., Sale=0, Target=0, PM=0
+  Team=ACHIEVERS, Brand=ATOXAN, Product=Atoxan 30mg Tab., Sale=48,960, Target=0, PM=69,360
+  Team=ACHIEVERS, Brand=D-ABS, Product=D-ABS injection (IM), Sale=0, Target=0, PM=0
+  Team=ACHIEVERS, Brand=D-ABS, Product=D-ABS injection (IM), Sale=0, Target=0, PM=0
+  Team=ACHIEVERS, Brand=D-ABS, Product=D-ABS injection (IM), Sale=0, Target=0, PM=0
+  Team=ACHIEVERS, Brand=D-ABS, Product=D-ABS injection (IM), Sale=0, Target=0, PM=0
+  Team=ACHIEVERS, Brand=D-ABS, Product=D-ABS injection (IM) 5s, Sale=0, Target=0, PM=0
+  Team=ACHIEVERS, Brand=D-ABS, Product=D-ABS injection (IM) 5s, Sale=6,218, Target=0, PM=0

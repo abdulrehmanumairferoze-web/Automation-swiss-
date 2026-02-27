@@ -1,0 +1,1400 @@
+--- 2026-02-16 14:02:37 ---
+Validation [FINANCIAL]:
+  - Source Excel Total: 111,604,788.15
+  - Processed Data Total: 22,320,957.63
+  - Difference: 89,283,830.52
+  - Parity Status: FAILURE
+
+--- 2026-02-16 14:05:01 ---
+[FINANCIAL] Parity Check:
+  - Excel Meaningful Total: 111,604,788.15
+  - Proccessed PDF Total:   22,320,957.63
+  - Parity Difference:      89,283,830.52
+  - Status:                 FAILURE
+
+--- 2026-02-16 14:06:55 ---
+[FINANCIAL] Parity Check:
+  - Raw Total (incl. summaries): 133,925,745.78
+  - Summary Rows Only:           22,320,957.63
+  - Excel Meaningful Total:      111,604,788.15
+  - Proccessed PDF Total:        22,320,957.63
+  - Difference:                  89,283,830.52
+  - Status:                      FAILURE
+
+--- 2026-02-16 14:07:45 ---
+[FINANCIAL] Parity Check:
+  - Raw Total (incl. summaries): 133,925,745.78
+  - Summary Rows Only:           111,604,788.15
+  - Excel Meaningful Total:      22,320,957.63
+  - Proccessed PDF Total:        22,320,957.63
+  - Difference:                  0.00
+  - Status:                      SUCCESS
+
+--- 2026-02-16 14:07:45 ---
+[UNIT] Parity Check:
+  - Raw Total (incl. summaries): 327,197.99
+  - Summary Rows Only:           272,664.99
+  - Excel Meaningful Total:      54,533.00
+  - Proccessed PDF Total:        54,533.00
+  - Difference:                  0.00
+  - Status:                      SUCCESS
+
+--- 2026-02-16 14:14:46 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 14:14:46 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 14:42:31 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 14:42:31 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 14:59:57 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 14:59:57 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 15:53:58 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 15:53:58 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 15:55:06 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 15:55:06 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 15:57:56 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 15:57:56 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 16:01:14 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 16:01:14 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 16:04:14 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 16:04:14 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 17:12:27 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 17:12:27 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 17:15:02 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 17:15:02 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 17:18:29 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 17:18:29 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 17:40:41 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 17:40:42 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 18:20:47 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 18:20:47 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 18:49:03 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 18:49:03 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 18:58:52 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 18:58:52 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 19:14:58 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 19:14:58 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 22:46:49 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 22:46:49 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 22:48:06 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-16 22:48:06 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 00:21:28 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 00:21:28 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 00:49:50 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 342,444.98
+  - Excluded Summary Subtotals: 68,489.00
+  - Verified Meaningful Total:  273,955.98
+  - PDF Data Total:             273,955.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 00:49:50 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 125,830,414.90
+  - Excluded Summary Subtotals: 25,166,082.98
+  - Verified Meaningful Total:  100,664,331.92
+  - PDF Data Total:             100,664,331.92
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 00:52:52 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 342,444.98
+  - Excluded Summary Subtotals: 68,489.00
+  - Verified Meaningful Total:  273,955.98
+  - PDF Data Total:             273,955.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 00:52:52 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 125,830,414.90
+  - Excluded Summary Subtotals: 25,166,082.98
+  - Verified Meaningful Total:  100,664,331.92
+  - PDF Data Total:             100,664,331.92
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 10:04:14 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 10:04:14 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 10:17:20 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 10:17:20 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 10:17:51 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 10:17:51 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 11:49:01 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 11:49:01 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 12:01:57 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 150,996,497.88
+  - Excluded Summary Subtotals: 125,830,414.90
+  - Verified Meaningful Total:  25,166,082.98
+  - PDF Data Total:             25,166,082.98
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 12:01:57 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 367,175.99
+  - Excluded Summary Subtotals: 305,979.99
+  - Verified Meaningful Total:  61,196.00
+  - PDF Data Total:             61,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 14:20:14 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 169,604,508.66
+  - Excluded Summary Subtotals: 141,337,090.55
+  - Verified Meaningful Total:  28,267,418.11
+  - PDF Data Total:             28,267,418.11
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 14:20:14 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 413,675.99
+  - Excluded Summary Subtotals: 344,729.99
+  - Verified Meaningful Total:  68,946.00
+  - PDF Data Total:             68,946.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 14:22:43 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 169,604,508.66
+  - Excluded Summary Subtotals: 141,337,090.55
+  - Verified Meaningful Total:  28,267,418.11
+  - PDF Data Total:             28,267,418.11
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 14:22:43 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 413,675.99
+  - Excluded Summary Subtotals: 344,729.99
+  - Verified Meaningful Total:  68,946.00
+  - PDF Data Total:             68,946.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 18:30:03 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 420,819,694.80
+  - Excluded Summary Subtotals: 350,683,079.00
+  - Verified Meaningful Total:  70,136,615.80
+  - PDF Data Total:             70,136,615.80
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 18:30:03 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 1,120,649.98
+  - Excluded Summary Subtotals: 933,874.98
+  - Verified Meaningful Total:  186,775.00
+  - PDF Data Total:             186,775.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 18:31:05 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 420,819,694.80
+  - Excluded Summary Subtotals: 350,683,079.00
+  - Verified Meaningful Total:  70,136,615.80
+  - PDF Data Total:             70,136,615.80
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 18:31:05 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 1,120,649.98
+  - Excluded Summary Subtotals: 933,874.98
+  - Verified Meaningful Total:  186,775.00
+  - PDF Data Total:             186,775.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 18:32:06 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 420,819,694.80
+  - Excluded Summary Subtotals: 350,683,079.00
+  - Verified Meaningful Total:  70,136,615.80
+  - PDF Data Total:             70,136,615.80
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 18:32:06 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 1,120,649.98
+  - Excluded Summary Subtotals: 933,874.98
+  - Verified Meaningful Total:  186,775.00
+  - PDF Data Total:             186,775.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 18:37:51 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 169,604,508.66
+  - Excluded Summary Subtotals: 141,337,090.55
+  - Verified Meaningful Total:  28,267,418.11
+  - PDF Data Total:             28,267,418.11
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-17 18:37:51 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 413,675.99
+  - Excluded Summary Subtotals: 344,729.99
+  - Verified Meaningful Total:  68,946.00
+  - PDF Data Total:             68,946.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-18 13:43:17 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 189,394,617.96
+  - Excluded Summary Subtotals: 157,828,848.30
+  - Verified Meaningful Total:  31,565,769.66
+  - PDF Data Total:             31,565,769.66
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-18 13:43:17 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 457,175.98
+  - Excluded Summary Subtotals: 380,979.98
+  - Verified Meaningful Total:  76,196.00
+  - PDF Data Total:             76,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-18 13:46:43 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 189,394,617.96
+  - Excluded Summary Subtotals: 157,828,848.30
+  - Verified Meaningful Total:  31,565,769.66
+  - PDF Data Total:             31,565,769.66
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-18 13:46:43 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 457,175.98
+  - Excluded Summary Subtotals: 380,979.98
+  - Verified Meaningful Total:  76,196.00
+  - PDF Data Total:             76,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-18 13:49:13 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 189,394,617.96
+  - Excluded Summary Subtotals: 157,828,848.30
+  - Verified Meaningful Total:  31,565,769.66
+  - PDF Data Total:             31,565,769.66
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-18 13:49:13 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 457,175.98
+  - Excluded Summary Subtotals: 380,979.98
+  - Verified Meaningful Total:  76,196.00
+  - PDF Data Total:             76,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-18 15:29:24 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 189,394,617.96
+  - Excluded Summary Subtotals: 157,828,848.30
+  - Verified Meaningful Total:  31,565,769.66
+  - PDF Data Total:             31,565,769.66
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-18 15:29:24 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 457,175.98
+  - Excluded Summary Subtotals: 380,979.98
+  - Verified Meaningful Total:  76,196.00
+  - PDF Data Total:             76,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 11:56:03 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 189,394,617.96
+  - Excluded Summary Subtotals: 157,828,848.30
+  - Verified Meaningful Total:  31,565,769.66
+  - PDF Data Total:             31,565,769.66
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 11:56:03 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 457,175.98
+  - Excluded Summary Subtotals: 380,979.98
+  - Verified Meaningful Total:  76,196.00
+  - PDF Data Total:             76,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 12:41:50 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 189,394,617.96
+  - Excluded Summary Subtotals: 157,828,848.30
+  - Verified Meaningful Total:  31,565,769.66
+  - PDF Data Total:             31,565,769.66
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 12:41:50 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 457,175.98
+  - Excluded Summary Subtotals: 380,979.98
+  - Verified Meaningful Total:  76,196.00
+  - PDF Data Total:             76,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 13:14:55 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 189,394,617.96
+  - Excluded Summary Subtotals: 157,828,848.30
+  - Verified Meaningful Total:  31,565,769.66
+  - PDF Data Total:             31,565,769.66
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 13:14:55 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 457,175.98
+  - Excluded Summary Subtotals: 380,979.98
+  - Verified Meaningful Total:  76,196.00
+  - PDF Data Total:             76,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 13:37:38 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 189,394,617.96
+  - Excluded Summary Subtotals: 157,828,848.30
+  - Verified Meaningful Total:  31,565,769.66
+  - PDF Data Total:             31,565,769.66
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 13:37:38 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 457,175.98
+  - Excluded Summary Subtotals: 380,979.98
+  - Verified Meaningful Total:  76,196.00
+  - PDF Data Total:             76,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 13:39:11 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 189,394,617.96
+  - Excluded Summary Subtotals: 157,828,848.30
+  - Verified Meaningful Total:  31,565,769.66
+  - PDF Data Total:             31,565,769.66
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 13:39:11 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 457,175.98
+  - Excluded Summary Subtotals: 380,979.98
+  - Verified Meaningful Total:  76,196.00
+  - PDF Data Total:             76,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 13:48:57 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 189,394,617.96
+  - Excluded Summary Subtotals: 157,828,848.30
+  - Verified Meaningful Total:  31,565,769.66
+  - PDF Data Total:             31,565,769.66
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 13:48:57 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 457,175.98
+  - Excluded Summary Subtotals: 380,979.98
+  - Verified Meaningful Total:  76,196.00
+  - PDF Data Total:             76,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 13:56:54 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 189,394,617.96
+  - Excluded Summary Subtotals: 157,828,848.30
+  - Verified Meaningful Total:  31,565,769.66
+  - PDF Data Total:             31,565,769.66
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 13:56:54 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 457,175.98
+  - Excluded Summary Subtotals: 380,979.98
+  - Verified Meaningful Total:  76,196.00
+  - PDF Data Total:             76,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 13:59:47 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 189,394,617.96
+  - Excluded Summary Subtotals: 157,828,848.30
+  - Verified Meaningful Total:  31,565,769.66
+  - PDF Data Total:             31,565,769.66
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 13:59:47 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 457,175.98
+  - Excluded Summary Subtotals: 380,979.98
+  - Verified Meaningful Total:  76,196.00
+  - PDF Data Total:             76,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 14:07:42 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 189,394,617.96
+  - Excluded Summary Subtotals: 157,828,848.30
+  - Verified Meaningful Total:  31,565,769.66
+  - PDF Data Total:             31,565,769.66
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 14:07:42 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 457,175.98
+  - Excluded Summary Subtotals: 380,979.98
+  - Verified Meaningful Total:  76,196.00
+  - PDF Data Total:             76,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 14:09:15 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 189,394,617.96
+  - Excluded Summary Subtotals: 157,828,848.30
+  - Verified Meaningful Total:  31,565,769.66
+  - PDF Data Total:             31,565,769.66
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 14:09:15 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 457,175.98
+  - Excluded Summary Subtotals: 380,979.98
+  - Verified Meaningful Total:  76,196.00
+  - PDF Data Total:             76,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 14:16:10 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 189,394,617.96
+  - Excluded Summary Subtotals: 157,828,848.30
+  - Verified Meaningful Total:  31,565,769.66
+  - PDF Data Total:             31,565,769.66
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 14:16:10 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 457,175.98
+  - Excluded Summary Subtotals: 380,979.98
+  - Verified Meaningful Total:  76,196.00
+  - PDF Data Total:             76,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 20:03:10 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 189,394,617.96
+  - Excluded Summary Subtotals: 157,828,848.30
+  - Verified Meaningful Total:  31,565,769.66
+  - PDF Data Total:             31,565,769.66
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 20:03:10 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 457,175.98
+  - Excluded Summary Subtotals: 380,979.98
+  - Verified Meaningful Total:  76,196.00
+  - PDF Data Total:             76,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 20:04:55 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 189,394,617.96
+  - Excluded Summary Subtotals: 157,828,848.30
+  - Verified Meaningful Total:  31,565,769.66
+  - PDF Data Total:             31,565,769.66
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 20:04:55 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 457,175.98
+  - Excluded Summary Subtotals: 380,979.98
+  - Verified Meaningful Total:  76,196.00
+  - PDF Data Total:             76,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 20:40:39 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 189,394,617.96
+  - Excluded Summary Subtotals: 157,828,848.30
+  - Verified Meaningful Total:  31,565,769.66
+  - PDF Data Total:             31,565,769.66
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 20:40:39 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 457,175.98
+  - Excluded Summary Subtotals: 380,979.98
+  - Verified Meaningful Total:  76,196.00
+  - PDF Data Total:             76,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 20:45:14 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 189,394,617.96
+  - Excluded Summary Subtotals: 157,828,848.30
+  - Verified Meaningful Total:  31,565,769.66
+  - PDF Data Total:             31,565,769.66
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 20:45:15 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 457,175.98
+  - Excluded Summary Subtotals: 380,979.98
+  - Verified Meaningful Total:  76,196.00
+  - PDF Data Total:             76,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 21:46:42 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 189,394,617.96
+  - Excluded Summary Subtotals: 157,828,848.30
+  - Verified Meaningful Total:  31,565,769.66
+  - PDF Data Total:             31,565,769.66
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 21:46:42 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 457,175.98
+  - Excluded Summary Subtotals: 380,979.98
+  - Verified Meaningful Total:  76,196.00
+  - PDF Data Total:             76,196.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 23:25:24 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 203,711,411.58
+  - Excluded Summary Subtotals: 169,759,509.65
+  - Verified Meaningful Total:  33,951,901.93
+  - PDF Data Total:             33,951,901.93
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 23:25:24 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 491,585.98
+  - Excluded Summary Subtotals: 409,654.98
+  - Verified Meaningful Total:  81,931.00
+  - PDF Data Total:             81,931.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 23:43:11 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 203,711,411.58
+  - Excluded Summary Subtotals: 169,759,509.65
+  - Verified Meaningful Total:  33,951,901.93
+  - PDF Data Total:             33,951,901.93
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-19 23:43:11 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 491,585.98
+  - Excluded Summary Subtotals: 409,654.98
+  - Verified Meaningful Total:  81,931.00
+  - PDF Data Total:             81,931.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-20 00:26:09 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 203,711,411.58
+  - Excluded Summary Subtotals: 169,759,509.65
+  - Verified Meaningful Total:  33,951,901.93
+  - PDF Data Total:             33,951,901.93
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-20 00:26:09 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 491,585.98
+  - Excluded Summary Subtotals: 409,654.98
+  - Verified Meaningful Total:  81,931.00
+  - PDF Data Total:             81,931.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-20 00:51:29 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 203,711,411.58
+  - Excluded Summary Subtotals: 169,759,509.65
+  - Verified Meaningful Total:  33,951,901.93
+  - PDF Data Total:             33,951,901.93
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-20 00:51:29 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 491,585.98
+  - Excluded Summary Subtotals: 409,654.98
+  - Verified Meaningful Total:  81,931.00
+  - PDF Data Total:             81,931.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-20 00:56:18 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 203,711,411.58
+  - Excluded Summary Subtotals: 169,759,509.65
+  - Verified Meaningful Total:  33,951,901.93
+  - PDF Data Total:             33,951,901.93
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-20 00:56:18 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 491,585.98
+  - Excluded Summary Subtotals: 409,654.98
+  - Verified Meaningful Total:  81,931.00
+  - PDF Data Total:             81,931.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-20 01:09:36 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 203,711,411.58
+  - Excluded Summary Subtotals: 169,759,509.65
+  - Verified Meaningful Total:  33,951,901.93
+  - PDF Data Total:             33,951,901.93
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-20 01:09:36 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 491,585.98
+  - Excluded Summary Subtotals: 409,654.98
+  - Verified Meaningful Total:  81,931.00
+  - PDF Data Total:             81,931.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-20 12:28:58 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 203,711,411.58
+  - Excluded Summary Subtotals: 169,759,509.65
+  - Verified Meaningful Total:  33,951,901.93
+  - PDF Data Total:             33,951,901.93
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-20 12:28:58 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 491,585.98
+  - Excluded Summary Subtotals: 409,654.98
+  - Verified Meaningful Total:  81,931.00
+  - PDF Data Total:             81,931.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-20 12:58:13 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 215,761,461.36
+  - Excluded Summary Subtotals: 179,801,217.80
+  - Verified Meaningful Total:  35,960,243.56
+  - PDF Data Total:             35,960,243.56
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-20 12:58:13 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 522,215.98
+  - Excluded Summary Subtotals: 435,179.98
+  - Verified Meaningful Total:  87,036.00
+  - PDF Data Total:             87,036.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-20 13:11:39 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 215,761,461.36
+  - Excluded Summary Subtotals: 179,801,217.80
+  - Verified Meaningful Total:  35,960,243.56
+  - PDF Data Total:             35,960,243.56
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-20 13:11:39 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 522,215.98
+  - Excluded Summary Subtotals: 435,179.98
+  - Verified Meaningful Total:  87,036.00
+  - PDF Data Total:             87,036.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-20 13:13:51 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 215,761,461.36
+  - Excluded Summary Subtotals: 179,801,217.80
+  - Verified Meaningful Total:  35,960,243.56
+  - PDF Data Total:             35,960,243.56
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-20 13:13:51 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 522,215.98
+  - Excluded Summary Subtotals: 435,179.98
+  - Verified Meaningful Total:  87,036.00
+  - PDF Data Total:             87,036.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-20 13:35:28 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 215,761,461.36
+  - Excluded Summary Subtotals: 179,801,217.80
+  - Verified Meaningful Total:  35,960,243.56
+  - PDF Data Total:             35,960,243.56
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-20 13:35:28 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 522,215.98
+  - Excluded Summary Subtotals: 435,179.98
+  - Verified Meaningful Total:  87,036.00
+  - PDF Data Total:             87,036.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-22 16:27:00 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 215,761,461.36
+  - Excluded Summary Subtotals: 179,801,217.80
+  - Verified Meaningful Total:  35,960,243.56
+  - PDF Data Total:             35,960,243.56
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-22 16:27:00 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 522,215.98
+  - Excluded Summary Subtotals: 435,179.98
+  - Verified Meaningful Total:  87,036.00
+  - PDF Data Total:             87,036.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-22 16:58:13 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 0.00
+  - Excluded Summary Subtotals: 0.00
+  - Verified Meaningful Total:  0.00
+  - PDF Data Total:             0.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-22 16:58:18 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 215,761,461.36
+  - Excluded Summary Subtotals: 179,801,217.80
+  - Verified Meaningful Total:  35,960,243.56
+  - PDF Data Total:             35,960,243.56
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-22 16:58:18 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 522,215.98
+  - Excluded Summary Subtotals: 435,179.98
+  - Verified Meaningful Total:  87,036.00
+  - PDF Data Total:             87,036.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-22 17:01:44 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 0.00
+  - Excluded Summary Subtotals: 0.00
+  - Verified Meaningful Total:  0.00
+  - PDF Data Total:             0.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-22 17:01:49 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 215,761,461.36
+  - Excluded Summary Subtotals: 179,801,217.80
+  - Verified Meaningful Total:  35,960,243.56
+  - PDF Data Total:             35,960,243.56
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-22 17:01:49 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 522,215.98
+  - Excluded Summary Subtotals: 435,179.98
+  - Verified Meaningful Total:  87,036.00
+  - PDF Data Total:             87,036.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-25 11:50:10 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 280,722,947.64
+  - Excluded Summary Subtotals: 233,935,789.70
+  - Verified Meaningful Total:  46,787,157.94
+  - PDF Data Total:             46,787,157.94
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-25 11:50:10 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 684,299.97
+  - Excluded Summary Subtotals: 570,249.98
+  - Verified Meaningful Total:  114,050.00
+  - PDF Data Total:             114,050.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-25 13:12:44 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 280,722,947.64
+  - Excluded Summary Subtotals: 233,935,789.70
+  - Verified Meaningful Total:  46,787,157.94
+  - PDF Data Total:             46,787,157.94
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-25 13:12:44 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 684,299.97
+  - Excluded Summary Subtotals: 570,249.98
+  - Verified Meaningful Total:  114,050.00
+  - PDF Data Total:             114,050.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-25 23:03:18 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 280,722,947.64
+  - Excluded Summary Subtotals: 233,935,789.70
+  - Verified Meaningful Total:  46,787,157.94
+  - PDF Data Total:             46,787,157.94
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-25 23:03:18 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 684,299.97
+  - Excluded Summary Subtotals: 570,249.98
+  - Verified Meaningful Total:  114,050.00
+  - PDF Data Total:             114,050.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-26 11:12:02 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 294,176,080.74
+  - Excluded Summary Subtotals: 245,146,733.95
+  - Verified Meaningful Total:  49,029,346.79
+  - PDF Data Total:             49,029,346.79
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-26 11:12:02 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 717,935.97
+  - Excluded Summary Subtotals: 598,279.98
+  - Verified Meaningful Total:  119,656.00
+  - PDF Data Total:             119,656.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-26 11:19:19 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 294,176,080.74
+  - Excluded Summary Subtotals: 245,146,733.95
+  - Verified Meaningful Total:  49,029,346.79
+  - PDF Data Total:             49,029,346.79
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-26 11:19:19 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 717,935.97
+  - Excluded Summary Subtotals: 598,279.98
+  - Verified Meaningful Total:  119,656.00
+  - PDF Data Total:             119,656.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-26 11:25:42 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 294,176,080.74
+  - Excluded Summary Subtotals: 245,146,733.95
+  - Verified Meaningful Total:  49,029,346.79
+  - PDF Data Total:             49,029,346.79
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-26 11:25:42 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 717,935.97
+  - Excluded Summary Subtotals: 598,279.98
+  - Verified Meaningful Total:  119,656.00
+  - PDF Data Total:             119,656.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-26 16:53:18 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 294,323,977.74
+  - Excluded Summary Subtotals: 245,269,981.45
+  - Verified Meaningful Total:  49,053,996.29
+  - PDF Data Total:             49,053,996.29
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-26 16:53:18 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 718,373.97
+  - Excluded Summary Subtotals: 598,644.98
+  - Verified Meaningful Total:  119,729.00
+  - PDF Data Total:             119,729.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-26 23:12:28 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 0.00
+  - Excluded Summary Subtotals: 0.00
+  - Verified Meaningful Total:  0.00
+  - PDF Data Total:             0.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-26 23:12:34 ---
+[FINANCIAL] Binary Parity Check:
+  - Raw Total (incl. summaries): 294,323,977.74
+  - Excluded Summary Subtotals: 245,269,981.45
+  - Verified Meaningful Total:  49,053,996.29
+  - PDF Data Total:             49,053,996.29
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+
+--- 2026-02-26 23:12:34 ---
+[UNIT] Binary Parity Check:
+  - Raw Total (incl. summaries): 718,373.97
+  - Excluded Summary Subtotals: 598,644.98
+  - Verified Meaningful Total:  119,729.00
+  - PDF Data Total:             119,729.00
+  - Parity Difference:          0.00000
+  - Final Integrity Status:     SUCCESS
+

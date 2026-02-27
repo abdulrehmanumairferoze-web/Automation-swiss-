@@ -1,0 +1,164 @@
+          Zone             Team                Brand                       Product_Name       All Regions  9-Feb-26
+488   Centre I        ACHIEVERS                ASVON             Asvon Tab 10/100mg 30s          Khanewal         2
+490   Centre I        ACHIEVERS                ASVON             Asvon Tab 10/100mg 30s            Layyah         3
+491   Centre I        ACHIEVERS                ASVON             Asvon Tab 10/100mg 30s    Rahim Yar Khan         1
+492   Centre I        ACHIEVERS                ASVON       Asvon Tab 10/100mg 30s Total               All         6
+493   Centre I        ACHIEVERS          ASVON Total                                All               All         6
+494   Centre I        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.        Bahawalpur         2
+496   Centre I        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.          Khanewal         3
+497   Centre I        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.           Khanpur         5
+500   Centre I        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.    Rahim Yar Khan         3
+501   Centre I        ACHIEVERS               ATOXAN             Atoxan 30mg Tab. Total               All        13
+502   Centre I        ACHIEVERS         ATOXAN Total                                All               All        13
+506   Centre I        ACHIEVERS                D-ABS               D-ABS injection (IM)           Khanpur        35
+508   Centre I        ACHIEVERS                D-ABS               D-ABS injection (IM)            Layyah        23
+511   Centre I        ACHIEVERS                D-ABS         D-ABS injection (IM) Total               All        58
+516   Centre I        ACHIEVERS          D-ABS Total                                All               All        55
+517   Centre I        ACHIEVERS        Pentallin IVY                 Pentallin Syp. IVY   Dera Ghazi Khan        10
+520   Centre I        ACHIEVERS        Pentallin IVY                 Pentallin Syp. IVY    Rahim Yar Khan        10
+521   Centre I        ACHIEVERS        Pentallin IVY           Pentallin Syp. IVY Total               All        20
+522   Centre I        ACHIEVERS  Pentallin IVY Total                                All               All        20
+526   Centre I        ACHIEVERS               ROPLEX        Roplex 50mg/5ml Syrup 120ml    Rahim Yar Khan         2
+527   Centre I        ACHIEVERS               ROPLEX  Roplex 50mg/5ml Syrup 120ml Total               All         2
+528   Centre I        ACHIEVERS         ROPLEX Total                                All               All         2
+529   Centre I        ACHIEVERS               SWICEF             Swicef 100mg/5ml Susp.        Bahawalpur        52
+530   Centre I        ACHIEVERS               SWICEF             Swicef 100mg/5ml Susp.   Dera Ghazi Khan        21
+531   Centre I        ACHIEVERS               SWICEF             Swicef 100mg/5ml Susp.          Khanewal         5
+535   Centre I        ACHIEVERS               SWICEF             Swicef 100mg/5ml Susp.            Layyah         5
+538   Centre I        ACHIEVERS               SWICEF       Swicef 100mg/5ml Susp. Total               All        83
+541   Centre I        ACHIEVERS               SWICEF          Swicef DS 200mg/5ml Susp.          Khanewal         5
+545   Centre I        ACHIEVERS               SWICEF          Swicef DS 200mg/5ml Susp.            Layyah        26
+547   Centre I        ACHIEVERS               SWICEF    Swicef DS 200mg/5ml Susp. Total               All        31
+548   Centre I        ACHIEVERS         SWICEF Total                                All               All       114
+552   Centre I        ACHIEVERS           VITAGLOBIN             VITAGLOBIN Syrup 120ml            Layyah        20
+553   Centre I        ACHIEVERS           VITAGLOBIN       VITAGLOBIN Syrup 120ml Total               All        20
+556   Centre I        ACHIEVERS           VITAGLOBIN                Vitaglobin Plus Syp           Khanpur         5
+559   Centre I        ACHIEVERS           VITAGLOBIN                Vitaglobin Plus Syp    Rahim Yar Khan         3
+560   Centre I        ACHIEVERS           VITAGLOBIN          Vitaglobin Plus Syp Total               All         7
+563   Centre I        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.           Khanpur       112
+564   Centre I        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.            Layyah        17
+566   Centre I        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.    Rahim Yar Khan        60
+567   Centre I        ACHIEVERS           VITAGLOBIN              Vitaglobin Syp. Total               All       189
+568   Centre I        ACHIEVERS     VITAGLOBIN Total                                All               All       216
+570   Centre I        ACHIEVERS                 VONZ                  Vonz Tab 10mg 30s          Khanewal         3
+574   Centre I        ACHIEVERS                 VONZ            Vonz Tab 10mg 30s Total               All         3
+577   Centre I        ACHIEVERS                 VONZ                  Vonz Tab 20mg 30s           Khanpur        11
+579   Centre I        ACHIEVERS                 VONZ                  Vonz Tab 20mg 30s            Layyah         2
+581   Centre I        ACHIEVERS                 VONZ                  Vonz Tab 20mg 30s    Rahim Yar Khan         1
+582   Centre I        ACHIEVERS                 VONZ            Vonz Tab 20mg 30s Total               All        14
+583   Centre I        ACHIEVERS           VONZ Total                                All               All        17
+584   Centre I  ACHIEVERS Total                  All                                All               All       443
+783      North        ACHIEVERS                ASVON             Asvon Tab 10/100mg 30s          Peshawar         2
+785      North        ACHIEVERS                ASVON       Asvon Tab 10/100mg 30s Total               All         2
+786      North        ACHIEVERS          ASVON Total                                All               All         2
+787      North        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.        Abbottabad         7
+788      North        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.  DERA ISMAIL KHAN         5
+790      North        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.          Peshawar       102
+791      North        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.              Swat         5
+792      North        ACHIEVERS               ATOXAN             Atoxan 30mg Tab. Total               All       119
+793      North        ACHIEVERS         ATOXAN Total                                All               All       119
+800      North        ACHIEVERS                D-ABS            D-ABS injection (IM) 5s             Kohat        20
+801      North        ACHIEVERS                D-ABS            D-ABS injection (IM) 5s          Peshawar         2
+802      North        ACHIEVERS                D-ABS      D-ABS injection (IM) 5s Total               All        22
+803      North        ACHIEVERS          D-ABS Total                                All               All        22
+816      North        ACHIEVERS               SWICEF             Swicef 100mg/5ml Susp.          Peshawar        20
+818      North        ACHIEVERS               SWICEF       Swicef 100mg/5ml Susp. Total               All        20
+824      North        ACHIEVERS         SWICEF Total                                All               All        20
+827      North        ACHIEVERS           VITAGLOBIN             VITAGLOBIN Syrup 120ml              Swat         1
+829      North        ACHIEVERS           VITAGLOBIN       VITAGLOBIN Syrup 120ml Total               All         1
+831      North        ACHIEVERS           VITAGLOBIN                Vitaglobin Plus Syp             Kohat        15
+833      North        ACHIEVERS           VITAGLOBIN                Vitaglobin Plus Syp          Peshawar         5
+834      North        ACHIEVERS           VITAGLOBIN                Vitaglobin Plus Syp              Swat        10
+835      North        ACHIEVERS           VITAGLOBIN          Vitaglobin Plus Syp Total               All        30
+836      North        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.        Abbottabad         4
+837      North        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.             Bannu         2
+839      North        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.             Kohat        40
+841      North        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.              Swat         1
+842      North        ACHIEVERS           VITAGLOBIN              Vitaglobin Syp. Total               All        38
+843      North        ACHIEVERS     VITAGLOBIN Total                                All               All        69
+850      North        ACHIEVERS                 VONZ                  Vonz Tab 20mg 30s  DERA ISMAIL KHAN         5
+853      North        ACHIEVERS                 VONZ                  Vonz Tab 20mg 30s          Peshawar         8
+854      North        ACHIEVERS                 VONZ            Vonz Tab 20mg 30s Total               All        13
+855      North        ACHIEVERS           VONZ Total                                All               All        13
+856      North  ACHIEVERS Total                  All                                All               All       245
+1161     South        ACHIEVERS                ASVON             Asvon Tab 10/100mg 30s         Karachi-I         3
+1164     South        ACHIEVERS                ASVON             Asvon Tab 10/100mg 30s           Larkana         8
+1165     South        ACHIEVERS                ASVON             Asvon Tab 10/100mg 30s         Nawabshah         6
+1168     South        ACHIEVERS                ASVON       Asvon Tab 10/100mg 30s Total               All        16
+1169     South        ACHIEVERS          ASVON Total                                All               All        16
+1172     South        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.         Jacobabad        11
+1173     South        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.         Karachi-I         1
+1174     South        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.        Karachi-II        17
+1175     South        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.           Khuzdar         3
+1176     South        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.           Larkana         3
+1177     South        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.      Mir Pur Khas         4
+1178     South        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.         Nawabshah         3
+1180     South        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.            Sukkur        12
+1181     South        ACHIEVERS               ATOXAN             Atoxan 30mg Tab. Total               All        44
+1182     South        ACHIEVERS         ATOXAN Total                                All               All        44
+1183     South        ACHIEVERS                D-ABS               D-ABS injection (IM)              DADU        10
+1184     South        ACHIEVERS                D-ABS               D-ABS injection (IM)         Jacobabad        20
+1185     South        ACHIEVERS                D-ABS               D-ABS injection (IM)         Karachi-I         2
+1186     South        ACHIEVERS                D-ABS               D-ABS injection (IM)        Karachi-II         4
+1187     South        ACHIEVERS                D-ABS               D-ABS injection (IM)           Larkana         5
+1189     South        ACHIEVERS                D-ABS               D-ABS injection (IM)         Nawabshah         3
+1190     South        ACHIEVERS                D-ABS               D-ABS injection (IM)            Sukkur         5
+1191     South        ACHIEVERS                D-ABS         D-ABS injection (IM) Total               All        49
+1196     South        ACHIEVERS          D-ABS Total                                All               All        49
+1198     South        ACHIEVERS        Pentallin IVY                 Pentallin Syp. IVY         Jacobabad        10
+1203     South        ACHIEVERS        Pentallin IVY                 Pentallin Syp. IVY      Mir Pur Khas         6
+1204     South        ACHIEVERS        Pentallin IVY                 Pentallin Syp. IVY         Nawabshah         1
+1205     South        ACHIEVERS        Pentallin IVY           Pentallin Syp. IVY Total               All        17
+1206     South        ACHIEVERS  Pentallin IVY Total                                All               All        17
+1212     South        ACHIEVERS               ROPLEX        Roplex 50mg/5ml Syrup 120ml            Sukkur         3
+1213     South        ACHIEVERS               ROPLEX  Roplex 50mg/5ml Syrup 120ml Total               All         3
+1214     South        ACHIEVERS         ROPLEX Total                                All               All         3
+1215     South        ACHIEVERS               SWICEF             Swicef 100mg/5ml Susp.              DADU         1
+1217     South        ACHIEVERS               SWICEF             Swicef 100mg/5ml Susp.         Jacobabad        10
+1219     South        ACHIEVERS               SWICEF             Swicef 100mg/5ml Susp.        Karachi-II        23
+1222     South        ACHIEVERS               SWICEF             Swicef 100mg/5ml Susp.           Larkana        13
+1223     South        ACHIEVERS               SWICEF             Swicef 100mg/5ml Susp.      Mir Pur Khas        30
+1224     South        ACHIEVERS               SWICEF             Swicef 100mg/5ml Susp.         Nawabshah         2
+1227     South        ACHIEVERS               SWICEF       Swicef 100mg/5ml Susp. Total               All        79
+1228     South        ACHIEVERS               SWICEF          Swicef DS 200mg/5ml Susp.              DADU         6
+1234     South        ACHIEVERS               SWICEF          Swicef DS 200mg/5ml Susp.           Khuzdar         7
+1235     South        ACHIEVERS               SWICEF          Swicef DS 200mg/5ml Susp.           Larkana        13
+1237     South        ACHIEVERS               SWICEF          Swicef DS 200mg/5ml Susp.         Nawabshah         2
+1240     South        ACHIEVERS               SWICEF    Swicef DS 200mg/5ml Susp. Total               All        27
+1241     South        ACHIEVERS         SWICEF Total                                All               All       106
+1242     South        ACHIEVERS           VITAGLOBIN             VITAGLOBIN Syrup 120ml         Hyderabad         4
+1243     South        ACHIEVERS           VITAGLOBIN             VITAGLOBIN Syrup 120ml         Jacobabad        22
+1245     South        ACHIEVERS           VITAGLOBIN             VITAGLOBIN Syrup 120ml        Karachi-II        22
+1246     South        ACHIEVERS           VITAGLOBIN             VITAGLOBIN Syrup 120ml           Larkana        23
+1247     South        ACHIEVERS           VITAGLOBIN             VITAGLOBIN Syrup 120ml      Mir Pur Khas        27
+1250     South        ACHIEVERS           VITAGLOBIN             VITAGLOBIN Syrup 120ml            Sukkur         2
+1251     South        ACHIEVERS           VITAGLOBIN       VITAGLOBIN Syrup 120ml Total               All        96
+1254     South        ACHIEVERS           VITAGLOBIN                Vitaglobin Plus Syp         Jacobabad         5
+1256     South        ACHIEVERS           VITAGLOBIN                Vitaglobin Plus Syp          Khairpur         1
+1257     South        ACHIEVERS           VITAGLOBIN                Vitaglobin Plus Syp           Larkana         6
+1259     South        ACHIEVERS           VITAGLOBIN                Vitaglobin Plus Syp         Nawabshah         1
+1261     South        ACHIEVERS           VITAGLOBIN          Vitaglobin Plus Syp Total               All        11
+1262     South        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.              DADU        31
+1264     South        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.         Jacobabad       100
+1265     South        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.         Karachi-I        14
+1267     South        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.          Khairpur         2
+1268     South        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.           Larkana        11
+1269     South        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.      Mir Pur Khas        16
+1270     South        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.         Nawabshah         5
+1272     South        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.            Sukkur        10
+1273     South        ACHIEVERS           VITAGLOBIN              Vitaglobin Syp. Total               All       188
+1274     South        ACHIEVERS     VITAGLOBIN Total                                All               All       295
+1276     South        ACHIEVERS                 VONZ                  Vonz Tab 10mg 30s         Jacobabad         2
+1279     South        ACHIEVERS                 VONZ                  Vonz Tab 10mg 30s           Larkana         2
+1280     South        ACHIEVERS                 VONZ                  Vonz Tab 10mg 30s         Nawabshah         3
+1282     South        ACHIEVERS                 VONZ                  Vonz Tab 10mg 30s            Sukkur         3
+1283     South        ACHIEVERS                 VONZ            Vonz Tab 10mg 30s Total               All        10
+1285     South        ACHIEVERS                 VONZ                  Vonz Tab 20mg 30s         Hyderabad         3
+1286     South        ACHIEVERS                 VONZ                  Vonz Tab 20mg 30s         Jacobabad         2
+1287     South        ACHIEVERS                 VONZ                  Vonz Tab 20mg 30s         Karachi-I         4
+1288     South        ACHIEVERS                 VONZ                  Vonz Tab 20mg 30s        Karachi-II         5
+1290     South        ACHIEVERS                 VONZ                  Vonz Tab 20mg 30s           Larkana         5
+1292     South        ACHIEVERS                 VONZ                  Vonz Tab 20mg 30s         Nawabshah         3
+1295     South        ACHIEVERS                 VONZ            Vonz Tab 20mg 30s Total               All        22
+1296     South        ACHIEVERS           VONZ Total                                All               All        32
+1297     South  ACHIEVERS Total                  All                                All               All       562

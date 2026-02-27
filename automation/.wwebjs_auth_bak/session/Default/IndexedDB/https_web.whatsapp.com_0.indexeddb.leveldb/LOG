@@ -1,0 +1,13 @@
+2026/02/14-18:24:29.831 17ac Reusing MANIFEST D:\Downloads\copy-of-copy-of--swiss-dashboard\automation\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/14-18:24:29.832 17ac Recovering log #47
+2026/02/14-18:24:29.988 17ac Reusing old log D:\Downloads\copy-of-copy-of--swiss-dashboard\automation\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000047.log 
+2026/02/14-18:24:46.562 17ac Level-0 table #54: started
+2026/02/14-18:24:46.629 17ac Level-0 table #54: 1127546 bytes OK
+2026/02/14-18:24:46.632 17ac Delete type=0 #47
+2026/02/14-18:24:46.643 17ac Compacting 1@1 + 4@2 files
+2026/02/14-18:24:46.854 17ac Generated table #55@1: 56084 keys, 2219689 bytes
+2026/02/14-18:24:46.973 17ac Generated table #56@1: 21594 keys, 2191146 bytes
+2026/02/14-18:24:47.047 17ac Generated table #57@1: 27659 keys, 758036 bytes
+2026/02/14-18:24:47.047 17ac Compacted 1@1 + 4@2 files => 5168871 bytes
+2026/02/14-18:24:47.047 17ac compacted to: files[ 0 0 3 0 0 0 0 ]
+2026/02/14-18:24:47.048 17ac Delete type=2 #54

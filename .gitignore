@@ -1,0 +1,55 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Automation Temporary Files
+automation/node_modules
+automation/downloads
+automation/reports
+automation/logs
+automation/.wwebjs_auth
+automation/.wwebjs_cache
+automation/*.png
+automation/*.log
+automation/*.xlsx
+.env.automation
+.wwebjs_auth
+.wwebjs_cache
+mrep-downloads
+node_modules
+dist
+dist-ssr
+*.local
+
+# Large Archives and Backups
+*.zip
+*.rar
+*.7z
+*.bak
+*.old
+*.txt
+!README.md
+!requirements.txt
+!automation/*.txt
+!automation/north1_debug.txt

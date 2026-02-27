@@ -1,0 +1,102 @@
+﻿======================================================================
+DATA VALIDATION REPORT
+File: Territory_Wise_Sale20260220.xlsx
+======================================================================
+
+[RAW] Total rows after header: 2731
+
+--- 'All/Summary/Total' Row Analysis ---
+  Col 0 (Team) with ALL/SUMMARY/TOTAL: 4 rows
+  Col 4 (Zone) with 'All' (excl 'All Zones'): 206 rows
+  Col 5 (Region) with 'All' (excl 'All Regions'): 669 rows
+
+  Sample ALL/SUMMARY/TOTAL rows (Col 0):
+    Team=ACHIEVERS Total, Brand=All, SaleVal=6605514.080000001, Target=17305225.65
+    Team=CONCORD Total, Brand=All, SaleVal=6380012.870000003, Target=13237282.049999997
+    Team=DYNAMIC Total, Brand=All, SaleVal=15928304.03, Target=40839237.32719991
+    Team=PASSIONATE Total, Brand=All, SaleVal=7046412.580000002, Target=19564547.75
+
+  Unique Region values (48):
+    - 'Abbottabad'
+    - 'All'
+    - 'Bahawalnagar'
+    - 'Bahawalpur'
+    - 'Bannu'
+    - 'DADU'
+    - 'DERA ISMAIL KHAN'
+    - 'Dera Ghazi Khan'
+    - 'Faisalabad'
+    - 'Gujranwala'
+    - 'Hyderabad'
+    - 'Islamabad'
+    - 'Jacobabad'
+    - 'Kandhkot'
+    - 'Karachi-1'
+    - 'Karachi-2'
+    - 'Karachi-3'
+    - 'Karachi-I'
+    - 'Karachi-II'
+    - 'Khairpur'
+
+[CLEAN] Rows after filtering: 2062 (removed 669 rows)
+
+======================================================================
+FINANCIAL (VALUE) VALIDATION
+======================================================================
+
+  Manual Calculation (from clean data):
+    Total Sale Value:        35,960,243.56
+    Excel Targets (>0):     1832 / 2062
+    Fallback (PM*110%):      230 rows
+    Sum of Excel Targets:    90,946,292.78
+    Sum of Fallback Tgts:     1,411,726.75
+    Final Target Total:      92,358,019.52
+
+  Engine Calculation (get_derived_targets):
+    Total Actuals:           35,960,243.56
+    Total Targets:           90,946,292.78
+    Excel Target rows:      1832
+
+  MATCH CHECK:
+    Actuals Match:  PASS
+    Targets Match:  FAIL
+
+--- Per-Team Breakdown (Financial) ---
+  Team                     Actual          Target  Excel Tgt Rows
+  ------------------------------------------------------------
+  ACHIEVERS          6,605,514.08   17,489,732.94             346
+  CONCORD            6,380,012.87   14,433,958.69             413
+  DYNAMIC           15,928,304.03   40,869,780.15             812
+  PASSIONATE         7,046,412.58   19,564,547.75             261
+  ------------------------------------------------------------
+  TOTAL             35,960,243.56   92,358,019.52            1832
+
+======================================================================
+EXECUTIVE SUMMARY VALIDATION
+======================================================================
+
+  Engine Executive Summary (Financial):
+    Total Actual:     35,960,243.56
+    Total Target:     90,946,292.78
+    Achievement %:      39.54%
+
+  Matches Manual Calc: PASS
+
+======================================================================
+UNIT VALIDATION
+======================================================================
+  Manual:  Actual=      87,036  Target=     205,143
+  Engine:  Actual=      87,036  Target=     203,406
+  Match:   PASS
+
+======================================================================
+DOUBLE-COUNTING CHECK
+======================================================================
+  RAW Total Sale Value (no filter):     215,761,461.36
+  CLEAN Total Sale Value (filtered):     35,960,243.56
+  Difference (double-counted amount):   179,801,217.80
+  Inflation if not filtered:           500.0%
+
+======================================================================
+VALIDATION COMPLETE
+======================================================================

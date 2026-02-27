@@ -1,0 +1,12 @@
+python :   File "<string>", line 19
+At line:1 char:1
++ python -c "
++ ~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (  File "<string>", 
+    line 19:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+    print(f'Their PM Sale Value sum: {zero_tgt[" 
+PM_Val\].sum():,.2f}')
+                                               ^
+SyntaxError: unterminated string literal (detected at line 19)

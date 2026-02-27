@@ -1,0 +1,18 @@
+﻿python : Traceback (most recent call last):
+At line:1 char:1
++ python -c "
++ ~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most re 
+   cent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "<string>", line 13, in <module>
+    mask = col0.str.contains(team) and False  # skip
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Python\pythoncore-3.14-64\Li
+b\site-packages\pandas\core\generic.py", line 1513, in __bool__
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The truth value of a Series is ambiguous. Use 
+a.empty, a.bool(), a.item(), a.any() or a.all().

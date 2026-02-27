@@ -1,0 +1,146 @@
+          Zone             Team                Brand                       Product_Name       All Regions  10-Feb-26
+491   Centre I        ACHIEVERS                ASVON             Asvon Tab 10/100mg 30s    Rahim Yar Khan       1.00
+494   Centre I        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.        Bahawalpur       1.00
+497   Centre I        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.           Khanpur       1.00
+499   Centre I        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.            Multan      11.00
+500   Centre I        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.    Rahim Yar Khan       4.00
+501   Centre I        ACHIEVERS               ATOXAN             Atoxan 30mg Tab. Total               All      17.00
+502   Centre I        ACHIEVERS         ATOXAN Total                                All               All      17.00
+507   Centre I        ACHIEVERS                D-ABS               D-ABS injection (IM)         Lahore II       6.00
+509   Centre I        ACHIEVERS                D-ABS               D-ABS injection (IM)            Multan      10.00
+510   Centre I        ACHIEVERS                D-ABS               D-ABS injection (IM)    Rahim Yar Khan      30.00
+511   Centre I        ACHIEVERS                D-ABS         D-ABS injection (IM) Total               All      46.00
+516   Centre I        ACHIEVERS          D-ABS Total                                All               All      46.00
+519   Centre I        ACHIEVERS        Pentallin IVY                 Pentallin Syp. IVY            Layyah       2.00
+520   Centre I        ACHIEVERS        Pentallin IVY                 Pentallin Syp. IVY    Rahim Yar Khan       6.00
+521   Centre I        ACHIEVERS        Pentallin IVY           Pentallin Syp. IVY Total               All       8.00
+522   Centre I        ACHIEVERS  Pentallin IVY Total                                All               All       8.00
+533   Centre I        ACHIEVERS               SWICEF             Swicef 100mg/5ml Susp.            Lahore      10.00
+535   Centre I        ACHIEVERS               SWICEF             Swicef 100mg/5ml Susp.            Layyah      10.00
+537   Centre I        ACHIEVERS               SWICEF             Swicef 100mg/5ml Susp.    Rahim Yar Khan      31.00
+538   Centre I        ACHIEVERS               SWICEF       Swicef 100mg/5ml Susp. Total               All      51.00
+539   Centre I        ACHIEVERS               SWICEF          Swicef DS 200mg/5ml Susp.        Bahawalpur      20.00
+543   Centre I        ACHIEVERS               SWICEF          Swicef DS 200mg/5ml Susp.            Lahore      10.00
+546   Centre I        ACHIEVERS               SWICEF          Swicef DS 200mg/5ml Susp.    Rahim Yar Khan      16.00
+547   Centre I        ACHIEVERS               SWICEF    Swicef DS 200mg/5ml Susp. Total               All      31.00
+548   Centre I        ACHIEVERS         SWICEF Total                                All               All      82.00
+549   Centre I        ACHIEVERS           VITAGLOBIN             VITAGLOBIN Syrup 120ml        Bahawalpur       6.00
+554   Centre I        ACHIEVERS           VITAGLOBIN                Vitaglobin Plus Syp        Bahawalpur       5.00
+559   Centre I        ACHIEVERS           VITAGLOBIN                Vitaglobin Plus Syp    Rahim Yar Khan       1.00
+560   Centre I        ACHIEVERS           VITAGLOBIN          Vitaglobin Plus Syp Total               All       4.00
+561   Centre I        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.        Bahawalpur      11.00
+566   Centre I        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.    Rahim Yar Khan      32.00
+567   Centre I        ACHIEVERS           VITAGLOBIN              Vitaglobin Syp. Total               All      43.00
+568   Centre I        ACHIEVERS     VITAGLOBIN Total                                All               All      43.00
+572   Centre I        ACHIEVERS                 VONZ                  Vonz Tab 10mg 30s            Layyah       5.00
+574   Centre I        ACHIEVERS                 VONZ            Vonz Tab 10mg 30s Total               All       5.00
+575   Centre I        ACHIEVERS                 VONZ                  Vonz Tab 20mg 30s        Bahawalpur       5.00
+578   Centre I        ACHIEVERS                 VONZ                  Vonz Tab 20mg 30s            Lahore       1.00
+581   Centre I        ACHIEVERS                 VONZ                  Vonz Tab 20mg 30s    Rahim Yar Khan       5.00
+582   Centre I        ACHIEVERS                 VONZ            Vonz Tab 20mg 30s Total               All      11.00
+583   Centre I        ACHIEVERS           VONZ Total                                All               All      16.00
+584   Centre I  ACHIEVERS Total                  All                                All               All     208.00
+783      North        ACHIEVERS                ASVON             Asvon Tab 10/100mg 30s          Peshawar      25.00
+785      North        ACHIEVERS                ASVON       Asvon Tab 10/100mg 30s Total               All      23.00
+786      North        ACHIEVERS          ASVON Total                                All               All      23.00
+788      North        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.  DERA ISMAIL KHAN       6.00
+789      North        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.             Kohat       2.00
+790      North        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.          Peshawar       5.00
+791      North        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.              Swat       9.00
+792      North        ACHIEVERS               ATOXAN             Atoxan 30mg Tab. Total               All      22.00
+793      North        ACHIEVERS         ATOXAN Total                                All               All      22.00
+815      North        ACHIEVERS               SWICEF             Swicef 100mg/5ml Susp.  DERA ISMAIL KHAN      10.00
+817      North        ACHIEVERS               SWICEF             Swicef 100mg/5ml Susp.              Swat      10.00
+818      North        ACHIEVERS               SWICEF       Swicef 100mg/5ml Susp. Total               All      20.00
+819      North        ACHIEVERS               SWICEF          Swicef DS 200mg/5ml Susp.  DERA ISMAIL KHAN      20.00
+820      North        ACHIEVERS               SWICEF          Swicef DS 200mg/5ml Susp.             Kohat      28.00
+821      North        ACHIEVERS               SWICEF          Swicef DS 200mg/5ml Susp.          Peshawar      10.00
+822      North        ACHIEVERS               SWICEF          Swicef DS 200mg/5ml Susp.              Swat       5.00
+823      North        ACHIEVERS               SWICEF    Swicef DS 200mg/5ml Susp. Total               All      63.00
+824      North        ACHIEVERS         SWICEF Total                                All               All      83.00
+825      North        ACHIEVERS           VITAGLOBIN             VITAGLOBIN Syrup 120ml            Mardan       2.00
+827      North        ACHIEVERS           VITAGLOBIN             VITAGLOBIN Syrup 120ml              Swat      10.00
+829      North        ACHIEVERS           VITAGLOBIN       VITAGLOBIN Syrup 120ml Total               All      12.00
+831      North        ACHIEVERS           VITAGLOBIN                Vitaglobin Plus Syp             Kohat      30.00
+832      North        ACHIEVERS           VITAGLOBIN                Vitaglobin Plus Syp            Mardan       3.00
+835      North        ACHIEVERS           VITAGLOBIN          Vitaglobin Plus Syp Total               All      33.00
+836      North        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.        Abbottabad      53.00
+839      North        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.             Kohat      25.00
+842      North        ACHIEVERS           VITAGLOBIN              Vitaglobin Syp. Total               All      78.00
+843      North        ACHIEVERS     VITAGLOBIN Total                                All               All     123.00
+845      North        ACHIEVERS                 VONZ                  Vonz Tab 10mg 30s  DERA ISMAIL KHAN      10.00
+848      North        ACHIEVERS                 VONZ            Vonz Tab 10mg 30s Total               All      10.00
+850      North        ACHIEVERS                 VONZ                  Vonz Tab 20mg 30s  DERA ISMAIL KHAN       3.00
+852      North        ACHIEVERS                 VONZ                  Vonz Tab 20mg 30s            Mardan      10.00
+854      North        ACHIEVERS                 VONZ            Vonz Tab 20mg 30s Total               All      13.00
+855      North        ACHIEVERS           VONZ Total                                All               All      23.00
+856      North  ACHIEVERS Total                  All                                All               All     274.00
+1161     South        ACHIEVERS                ASVON             Asvon Tab 10/100mg 30s         Karachi-I       1.00
+1166     South        ACHIEVERS                ASVON             Asvon Tab 10/100mg 30s            Quetta       4.00
+1167     South        ACHIEVERS                ASVON             Asvon Tab 10/100mg 30s            Sukkur       1.00
+1168     South        ACHIEVERS                ASVON       Asvon Tab 10/100mg 30s Total               All       6.00
+1169     South        ACHIEVERS          ASVON Total                                All               All       6.00
+1170     South        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.              DADU      15.00
+1173     South        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.         Karachi-I       8.01
+1174     South        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.        Karachi-II      12.99
+1176     South        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.           Larkana       6.00
+1180     South        ACHIEVERS               ATOXAN                   Atoxan 30mg Tab.            Sukkur       1.00
+1181     South        ACHIEVERS               ATOXAN             Atoxan 30mg Tab. Total               All      43.00
+1182     South        ACHIEVERS         ATOXAN Total                                All               All      43.00
+1185     South        ACHIEVERS                D-ABS               D-ABS injection (IM)         Karachi-I       5.00
+1186     South        ACHIEVERS                D-ABS               D-ABS injection (IM)        Karachi-II      10.00
+1189     South        ACHIEVERS                D-ABS               D-ABS injection (IM)         Nawabshah      23.00
+1191     South        ACHIEVERS                D-ABS         D-ABS injection (IM) Total               All      38.00
+1196     South        ACHIEVERS          D-ABS Total                                All               All      38.00
+1200     South        ACHIEVERS        Pentallin IVY                 Pentallin Syp. IVY          Khairpur       1.00
+1203     South        ACHIEVERS        Pentallin IVY                 Pentallin Syp. IVY      Mir Pur Khas       7.00
+1205     South        ACHIEVERS        Pentallin IVY           Pentallin Syp. IVY Total               All       8.00
+1206     South        ACHIEVERS  Pentallin IVY Total                                All               All       8.00
+1211     South        ACHIEVERS               ROPLEX        Roplex 50mg/5ml Syrup 120ml         Nawabshah       4.00
+1213     South        ACHIEVERS               ROPLEX  Roplex 50mg/5ml Syrup 120ml Total               All       4.00
+1214     South        ACHIEVERS         ROPLEX Total                                All               All       4.00
+1215     South        ACHIEVERS               SWICEF             Swicef 100mg/5ml Susp.              DADU       3.00
+1216     South        ACHIEVERS               SWICEF             Swicef 100mg/5ml Susp.         Hyderabad      10.00
+1218     South        ACHIEVERS               SWICEF             Swicef 100mg/5ml Susp.         Karachi-I      10.00
+1220     South        ACHIEVERS               SWICEF             Swicef 100mg/5ml Susp.          Khairpur      10.00
+1227     South        ACHIEVERS               SWICEF       Swicef 100mg/5ml Susp. Total               All       5.00
+1228     South        ACHIEVERS               SWICEF          Swicef DS 200mg/5ml Susp.              DADU       5.00
+1229     South        ACHIEVERS               SWICEF          Swicef DS 200mg/5ml Susp.         Hyderabad      13.00
+1235     South        ACHIEVERS               SWICEF          Swicef DS 200mg/5ml Susp.           Larkana       6.00
+1240     South        ACHIEVERS               SWICEF    Swicef DS 200mg/5ml Susp. Total               All      24.00
+1241     South        ACHIEVERS         SWICEF Total                                All               All      29.00
+1243     South        ACHIEVERS           VITAGLOBIN             VITAGLOBIN Syrup 120ml         Jacobabad       5.00
+1244     South        ACHIEVERS           VITAGLOBIN             VITAGLOBIN Syrup 120ml         Karachi-I       4.00
+1245     South        ACHIEVERS           VITAGLOBIN             VITAGLOBIN Syrup 120ml        Karachi-II       3.00
+1246     South        ACHIEVERS           VITAGLOBIN             VITAGLOBIN Syrup 120ml           Larkana      10.00
+1247     South        ACHIEVERS           VITAGLOBIN             VITAGLOBIN Syrup 120ml      Mir Pur Khas       4.00
+1248     South        ACHIEVERS           VITAGLOBIN             VITAGLOBIN Syrup 120ml         Nawabshah       6.00
+1251     South        ACHIEVERS           VITAGLOBIN       VITAGLOBIN Syrup 120ml Total               All      24.00
+1253     South        ACHIEVERS           VITAGLOBIN                Vitaglobin Plus Syp         Hyderabad       5.00
+1255     South        ACHIEVERS           VITAGLOBIN                Vitaglobin Plus Syp         Karachi-I       1.00
+1260     South        ACHIEVERS           VITAGLOBIN                Vitaglobin Plus Syp            Sukkur       3.00
+1261     South        ACHIEVERS           VITAGLOBIN          Vitaglobin Plus Syp Total               All       8.00
+1262     South        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.              DADU      21.00
+1264     South        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.         Jacobabad      20.00
+1265     South        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.         Karachi-I      34.00
+1266     South        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.        Karachi-II      10.00
+1267     South        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.          Khairpur     100.00
+1268     South        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.           Larkana      20.00
+1270     South        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.         Nawabshah       8.00
+1272     South        ACHIEVERS           VITAGLOBIN                    Vitaglobin Syp.            Sukkur      13.00
+1273     South        ACHIEVERS           VITAGLOBIN              Vitaglobin Syp. Total               All     226.00
+1274     South        ACHIEVERS     VITAGLOBIN Total                                All               All     258.00
+1275     South        ACHIEVERS                 VONZ                  Vonz Tab 10mg 30s              DADU      15.00
+1276     South        ACHIEVERS                 VONZ                  Vonz Tab 10mg 30s         Jacobabad       3.00
+1278     South        ACHIEVERS                 VONZ                  Vonz Tab 10mg 30s        Karachi-II       1.00
+1279     South        ACHIEVERS                 VONZ                  Vonz Tab 10mg 30s           Larkana       2.00
+1280     South        ACHIEVERS                 VONZ                  Vonz Tab 10mg 30s         Nawabshah       1.00
+1283     South        ACHIEVERS                 VONZ            Vonz Tab 10mg 30s Total               All      22.00
+1284     South        ACHIEVERS                 VONZ                  Vonz Tab 20mg 30s              DADU       1.00
+1285     South        ACHIEVERS                 VONZ                  Vonz Tab 20mg 30s         Hyderabad       5.00
+1286     South        ACHIEVERS                 VONZ                  Vonz Tab 20mg 30s         Jacobabad       2.00
+1290     South        ACHIEVERS                 VONZ                  Vonz Tab 20mg 30s           Larkana       3.00
+1292     South        ACHIEVERS                 VONZ                  Vonz Tab 20mg 30s         Nawabshah      10.00
+1295     South        ACHIEVERS                 VONZ            Vonz Tab 20mg 30s Total               All      21.00
+1296     South        ACHIEVERS           VONZ Total                                All               All      43.00
+1297     South  ACHIEVERS Total                  All                                All               All     429.00
