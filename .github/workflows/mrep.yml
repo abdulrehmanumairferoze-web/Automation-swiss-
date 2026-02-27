@@ -2,7 +2,7 @@ name: MREP Automation Report
 
 on:
   schedule:
-    - cron: '0 15 * * *' # Daily at 8:00 PM PKT
+    - cron: '07 13 * * *' # Daily at 8:00 PM PKT
   workflow_dispatch:
     inputs:
       action:
