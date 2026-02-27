@@ -2,13 +2,14 @@ name: MREP Automation Report
 
 on:
   schedule:
-    - cron: '0 15 * * *' # Runs once per day (15:00 UTC = approx 20:00 PKT)
-  workflow_dispatch: # Allows manual triggering
+    - cron: '0 15 * * *' # Timer: Currently set to 15:00 UTC (8:00 PM PKT). 
+                         # To change, edit the numbers (Minute Hour Day Month Weekday).
+  workflow_dispatch:     # Allows manual triggering from the Actions tab.
 
 jobs:
   run-automation:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10 # Pipeline takes longer with processing
 
     steps:
       - name: Checkout repository
@@ -21,33 +22,59 @@ jobs:
           cache: 'npm'
           cache-dependency-path: automation/package-lock.json
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
       - name: Install Node.js dependencies
         run: |
           cd automation
           npm ci
+
+      - name: Install Python dependencies
+        run: |
+          cd automation
+          pip install -r requirements.txt
 
       - name: Install Playwright Chromium
         run: |
           cd automation
           npx playwright install --with-deps chromium
 
-      - name: Run MREP Automation
+      - name: Restore WhatsApp Session
+        uses: actions/cache@v4
+        with:
+          path: automation/.wwebjs_auth
+          key: ${{ runner.os }}-whatsapp-session-${{ github.run_id }}
+          restore-keys: |
+            ${{ runner.os }}-whatsapp-session-
+
+      - name: Run Full Pipeline (Download -> Process -> PDF -> WhatsApp)
         env:
+          # MREP Credentials
           MREP_COMPANY: ${{ secrets.MREP_COMPANY }}
           MREP_USERNAME: ${{ secrets.MREP_USERNAME }}
           MREP_PASSWORD: ${{ secrets.MREP_PASSWORD }}
+          # WhatsApp Configuration
+          # To add more contacts, add them as a comma-separated list in GitHub Secrets
+          WHATSAPP_NUMBER: ${{ secrets.WHATSAPP_NUMBER }}
+          COMPANY_NAME: ${{ secrets.COMPANY_NAME }}
           NODE_ENV: production
+          HEADLESS: True
         run: |
           cd automation
-          node mrep_target_achievement.cjs
+          python main.py --now
 
-      - name: Upload Artifacts (Screenshots & Logs)
+      - name: Upload Artifacts (Screenshots, Logs & PDF)
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: mrep-automation-results
           path: |
             automation/*.png
-            automation/*.log
+            automation/logs/*.log
+            automation/reports/*.pdf
             automation/downloads/*.xlsx
           retention-days: 7
